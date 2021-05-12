@@ -1,65 +1,63 @@
 {
     "sectionapi": {
         "success": true,
-        "data": {
-            "sections": [
-                {
-                    "id": "af3565a6-45b5-4823-9ff5-d024be2a581d",
-                    "name": "Bahçe",
-                    "tables": [
-                        {
-                            "name": "B-1",
-                            "id": "267b4c32-6769-42e2-a088-7b16cd9046c7"
-                        },
-                        {
-                            "name": "B-2",
-                            "id": "cddd656d-2acd-4caa-84f3-8de80a718df9"
-                        }
-                    ]
-                },
-                {
-                    "id": "659af176-c07b-4ffc-815d-9e5405f673a7",
-                    "name": "Balkon",
-                    "tables": [
-                        {
-                            "name": "BK-1",
-                            "id": "20eb14f3-c472-47cd-9a01-230cb1042e6f"
-                        },
-                        {
-                            "name": "BK-2",
-                            "id": "1c0ce272-6490-47d2-8d3a-f94fcc663ea8"
-                        }
-                    ]
-                },
-                {
-                    "id": "73408eb8-037c-4219-82b5-70301c238325",
-                    "name": "Avlu",
-                    "tables": [
-                        {
-                            "name": "A-1",
-                            "id": "8a83f949-06da-46b0-a062-a790da7371db"
-                        },
-                        {
-                            "name": "A-2",
-                            "id": "da1c97d2-9161-42fe-ad33-403414252945"
-                        }
-                    ]
-                },
-                {
-                    "id": "78cef612-1254-41db-b128-5d2327a17fe9",
-                    "name": "Merkez",
-                    "tables": [
-                        {
-                            "name": "M-1",
-                            "id": "b05c02d8-2a03-4481-a542-d333ba86ce0a"
-                        },
-                        {
-                            "name": "M-2",
-                            "id": "d99d8224-b7fe-4b8a-a111-cd00648efa37"
-                        }
-                    ]
-                }
-            ]
-        }
+        "sections": [
+            {
+                "id": "af3565a6-45b5-4823-9ff5-d024be2a581d",
+                "name": "Bahçe",
+                "tables": [
+                    {
+                        "name": "B-1",
+                        "id": "267b4c32-6769-42e2-a088-7b16cd9046c7"
+                    },
+                    {
+                        "name": "B-2",
+                        "id": "cddd656d-2acd-4caa-84f3-8de80a718df9"
+                    }
+                ]
+            },
+            {
+                "id": "659af176-c07b-4ffc-815d-9e5405f673a7",
+                "name": "Balkon",
+                "tables": [
+                    {
+                        "name": "BK-1",
+                        "id": "20eb14f3-c472-47cd-9a01-230cb1042e6f"
+                    },
+                    {
+                        "name": "BK-2",
+                        "id": "1c0ce272-6490-47d2-8d3a-f94fcc663ea8"
+                    }
+                ]
+            },
+            {
+                "id": "73408eb8-037c-4219-82b5-70301c238325",
+                "name": "Avlu",
+                "tables": [
+                    {
+                        "name": "A-1",
+                        "id": "8a83f949-06da-46b0-a062-a790da7371db"
+                    },
+                    {
+                        "name": "A-2",
+                        "id": "da1c97d2-9161-42fe-ad33-403414252945"
+                    }
+                ]
+            },
+            {
+                "id": "78cef612-1254-41db-b128-5d2327a17fe9",
+                "name": "Merkez",
+                "tables": [
+                    {
+                        "name": "M-1",
+                        "id": "b05c02d8-2a03-4481-a542-d333ba86ce0a"
+                    },
+                    {
+                        "name": "M-2",
+                        "id": "d99d8224-b7fe-4b8a-a111-cd00648efa37"
+                    }
+                ]
+            }
+        ]
     }
 }
